@@ -4,5 +4,7 @@ This is a simple Logic Programming Projects that uses LPA Prolog Language to cre
 To Run this Project , Users are required to install LPA-Prolog
 
 # Here are the example on how the Dictionary works
-https://github.com/user-attachments/assets/601055ef-d006-4843-aa79-59fe61437063
+
+https://github.com/user-attachments/assets/7bd1e58b-0bd6-4c31-abec-a25cc1292b45
+
 
